@@ -39,7 +39,7 @@
 
 				<div class="collapse navbar-collapse justify-content-end" id="navbarToggle">
 					<ul class="navbar-nav">
-						<li class="nav-item"><a class="nav-link menu-link" href="#intro">What is ICO<span class="sr-only">(current)</span></a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#intro">Quiénes somos?<span class="sr-only">(current)</span></a></li>
 						<li class="nav-item"><a class="nav-link menu-link" href="#tokenSale">Token Sale</a></li>
 						<li class="nav-item"><a class="nav-link menu-link" href="#roadmap">Roadmap</a></li>
 						<li class="nav-item"><a class="nav-link menu-link" href="#team">Team</a></li>
@@ -52,12 +52,12 @@
 								<a class="dropdown-item menu-link" href="#faq">Faqs</a>
 							</div>
 						</li>
-						<li class="nav-item"><a class="nav-link menu-link" href="#contact">Contact</a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#contact">Contacto</a></li>
 					</ul>
-					<ul class="navbar-nav navbar-btns">
+		<!--			<ul class="navbar-nav navbar-btns">
 						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#">Whitepaper</a></li>
 						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#apps">Try App</a></li>
-					</ul>
+					</ul>-->
 				</div>
 			</nav>
 		</div>
