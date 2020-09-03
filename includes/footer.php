@@ -4,10 +4,10 @@
 	        <div class="row text-center">
 	            <div class="col-md-12">
 	                <ul class="social">
-	                    <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
-	                    <li><a href="#"><em class="fab fa-twitter"></em></a></li>
-	                    <li><a href="#"><em class="fab fa-youtube"></em></a></li>
-	                    <li><a href="https://www.instagram.com/eltronadorccp/"><em class="fab fa-instagram"></em></a></li>
+	                    <li><a href="#" target="#"><em class="fab fa-facebook-f"></em></a></li>
+	                    <li><a href="#" target="#"><em class="fab fa-twitter"></em></a></li>
+	                    <li><a href="https://www.youtube.com/channel/UCKz_GsYlAdO4D802wFg0hqg?view_as=subscriber" target="https://www.youtube.com/channel/UCKz_GsYlAdO4D802wFg0hqg?view_as=subscriber"><em class="fab fa-youtube"></em></a></li>
+	                    <li><a href="https://www.instagram.com/eltronadorccp/" target="https://www.instagram.com/eltronadorccp/"><em class="fab fa-instagram"></em></a></li>
 	                </ul>
 	                <span class="copyright-text">
 	                    Pagina creada por <a href="http://www.4dev.cl" target="4dev.cl">4dev.cl</a>

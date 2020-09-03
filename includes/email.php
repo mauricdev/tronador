@@ -4,10 +4,10 @@
 			<div class="row text-center">
 				<div class="col">
 					<div class="section-head">
-						<h2 class="section-title">Contact ICO CRYPTO
-							<span>Contact</span>
+						<h2 class="section-title">Contacto el tronador
+							<span>Contacto</span>
 						</h2>
-						<p>Any question? Reach out to us and we’ll get back to you shortly.</p>
+						<p>Tienes alguna pregunta? Contactanos y en un momento nos comunicaremos contigo.</p>
 					</div>
 				</div>
 			</div>
@@ -26,19 +26,19 @@
 						<div class="form-results"></div>
 						<div class="input-field">
 							<input name="contact-name" type="text" class="input-line required">
-							<label class="input-title">Your Name</label>
+							<label class="input-title">Nombre</label>
 						</div>
 						<div class="input-field">
 							<input name="contact-email" type="email" class="input-line required email">
-							<label class="input-title">Your Email</label>
+							<label class="input-title">Email</label>
 						</div>
 						<div class="input-field">
 							<textarea name="contact-message" class="txtarea input-line required"></textarea>
-							<label class="input-title">Your Message</label>
+							<label class="input-title">Mensaje</label>
 						</div>
 						<input type="text" class="d-none" name="form-anti-honeypot" value="">
 						<div class="input-field">
-							<button type="submit" class="btn">Submit</button>
+							<button type="submit" class="btn">Enviar</button>
 						</div>
 					</form>
 				</div>

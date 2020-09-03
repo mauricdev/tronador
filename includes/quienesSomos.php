@@ -5,7 +5,7 @@
 			<div class="row align-items-center">
 				<div class="col-md-5 offset-md-1">
 					<div class="res-m-btm">
-						<img src="images/stage2.jpg" alt="graph">
+						<img src="images/stage3.jfif" alt="equipo ccp">
 					</div>
 				</div><!-- .col  -->
 				<div class="col-md-6 order-md-first order-last">
@@ -50,7 +50,7 @@
 			<div class="row align-items-center">
 				<div class="col-md-6">
 					<div class="res-m-btm">
-                    <img src="images/stage1.jpg" alt="graph">
+                    <img src="images/stage1.jpg" alt="RoboOne">
 					</div>
 				</div><!-- .col  -->
 
