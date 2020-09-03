@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx" class="js">
+
 <head>
 	<meta charset="utf-8">
 	<meta name="author" content="Softnio">
@@ -8,17 +9,18 @@
 	<!-- Fav Icon  -->
 	<link rel="shortcut icon" href="images/favicon.png">
 	<!-- Site Title  -->
-	<title>ICO Crypto - Bitcoin &amp; Cryptocurrency Landing Page Template</title>
+	<title>El tronador</title>
 	<!-- Vendor Bundle CSS -->
 	<link rel="stylesheet" href="assets/css/vendor.bundle.css?ver=142">
 	<!-- Custom styles for this template -->
 	<link rel="stylesheet" href="assets/css/style.css?ver=142">
 	<link rel="stylesheet" href="assets/css/theme.css?ver=142">
-	
+
 </head>
+
 <body class="theme-dark io-dark io-dark-light" data-spy="scroll" data-target="#mainnav" data-offset="80">
 
-	<!-- Header --> 
+	<!-- Header -->
 	<header class="site-header is-sticky">
 		<!-- Navbar -->
 		<div class="navbar navbar-expand-lg is-transparent" id="mainnav">
@@ -68,19 +70,14 @@
 					<div class="row align-items-center mobile-center">
 						<div class="col-lg-6 col-md-12 order-lg-first">
 							<div class="header-txt">
-								<h1>Powering Data for the new equity blockchain</h1>
-								<p class="lead color-secondary">Global decentralize network to buy &amp; sell shares</p>
-								<ul class="btns">
-									<li><a href="#" class="btn">Sign up to Join</a></li>
-									<li><a href="#" class="btn btn-alt">TOKEN DISTRIBUTION</a></li>
-								</ul>
+								<h1>El tronador</h1>
+								<p class="lead color-secondary">Agentes ccp <br> Somos los agentes del cambio</p>
+
 								<ul class="social">
 									<li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
 									<li><a href="#"><em class="fab fa-twitter"></em></a></li>
 									<li><a href="#"><em class="fab fa-youtube"></em></a></li>
-									<li><a href="#"><em class="fab fa-github"></em></a></li>
-									<li><a href="#"><em class="fab fa-bitcoin"></em></a></li>
-									<li><a href="#"><em class="fab fa-medium-m"></em></a></li>
+									<li><a href="https://www.instagram.com/eltronadorccp/"><em class="fab fa-instagram"></em></a></li>
 								</ul>
 							</div>
 						</div><!-- .col  -->

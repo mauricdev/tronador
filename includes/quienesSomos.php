@@ -10,12 +10,12 @@
 				</div><!-- .col  -->
 				<div class="col-md-6 order-md-first order-last">
 					<div class="text-block">
-						<h2>We’ve built a platform <br> to buy and sell shares.</h2>
-						<p class="lead">We’re reinventing the global equity blockchian – that is secure, smart and easy-to-use platform, and completely disrupting the way businesses raise capital and the way investors buy and sell shares.</p>
-						<a href="https://www.instagram.com/p/B6ZOrAlhEvc/" class="play-btn video-play">
+						<h2>Agentes ccp</h2>
+						<p class="lead">La iniciativa de "El Tronador" no es mas que participar de la competencia robo-one chile y representar a nuestro querido Concepción para demostrar que nosotros tambien podemos, además de aprovechar la tecnología bípeda y sus futuras aplicaciones.<br> El equipo que trabaja con este robot tendrá la oportunidad de ser uno de los ganadores de esta competencia y tomar un avion rumbo a Japón donde podrán participar de la competencia a nivel mundial </p>
+						<a href="" class="play-btn video-play">
 							<em class="play"><span></span></em>
-							<span>Watch Video</span>
-							<span>What and How it work</span>
+							<span>Mira el video!</span>
+							<span>Somos los agentes del cambio</span>
 						</a>
 					</div>
 				</div><!-- .col  -->
