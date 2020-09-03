@@ -23,7 +23,11 @@
 						</div>
 						<div class="team-info">
 							<h5 class="team-name">Victor<br>Henriquez</h5>
+<<<<<<< HEAD
 							<span class="team-title">Mecanico</span>
+=======
+							<span class="team-title">Mecánico </span>
+>>>>>>> 881dd677b6983dbb11da3af7c29cd50b45856935
 							<ul class="team-social">
 								<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 								<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
@@ -105,7 +109,7 @@
 						</div>
 						<div class="team-info">
 							<h5 class="team-name">Alicia <br>Fuentealba</h5>
-							<span class="team-title">CTO & Senior Developer</span>
+							<span class="team-title">Soporte</span>
 							<ul class="team-social">
 								<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 								<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
@@ -258,8 +262,8 @@
 							<a href="#team-profile-4" class="expand-trigger content-popup"></a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">Gabriel <br>Bernal</h5>
-							<span class="team-title">Community Management</span>
+							<h5 class="team-name">Sergio <br>Gatica</h5>
+							<span class="team-title">Arsenalero</span>
 							<ul class="team-social">
 								<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 								<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
@@ -339,7 +343,7 @@
 									<a href="#team-profile-5" class="expand-trigger content-popup"></a>
 								</div>
 								<div class="team-info">
-									<h5 class="team-name">Dylan <br>Finch</h5>
+									<h5 class="team-name">Sebastian <br>Avello</h5>
 									<span class="team-title">Board Advisor</span>
 									<ul class="team-social">
 										<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
@@ -416,7 +420,7 @@
 									<a href="#team-profile-6" class="expand-trigger content-popup"></a>
 								</div>
 								<div class="team-info">
-									<h5 class="team-name">Julian <br>Paten</h5>
+									<h5 class="team-name">Gregori <br>Sobrevía</h5>
 									<span class="team-title">Board Advisor</span>
 									<ul class="team-social">
 										<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
@@ -492,8 +496,13 @@
 									<img src="images/team-g-sq.jpg" alt="team">
 									<a href="#team-profile-7" class="expand-trigger content-popup"></a>
 								</div>
+<<<<<<< HEAD
+								<div class="team-info">
+									<h5 class="team-name">Gregori <br>Sobrevía</h5>
+=======
 								<div class="team-info" >
 									<h5 class="team-name">Jaxon <br>Kilburn</h5>
+>>>>>>> 1f52d9e691ca4e61b5d2af4b579ca00866c992ea
 									<span class="team-title">Board Advisor</span>
 									<ul class="team-social">
 										<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
@@ -552,6 +561,7 @@
 															</div>
 															<div class="skill-bar">
 																<div class="skill-bar-percent gradiant-background" style="width:75%"></div>
+																
 															</div>
 														</div>
 													</div>
