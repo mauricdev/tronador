@@ -1,2 +1,2 @@
 # Tronador CCP
-Pagina de el tronador ccp´
+Pagina de el tronador ccp
