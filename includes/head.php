@@ -40,18 +40,10 @@
 				<div class="collapse navbar-collapse justify-content-end" id="navbarToggle">
 					<ul class="navbar-nav">
 						<li class="nav-item"><a class="nav-link menu-link" href="#intro">Quiénes somos?<span class="sr-only">(current)</span></a></li>
-						<li class="nav-item"><a class="nav-link menu-link" href="#tokenSale">Token Sale</a></li>
-						<li class="nav-item"><a class="nav-link menu-link" href="#roadmap">Roadmap</a></li>
-						<li class="nav-item"><a class="nav-link menu-link" href="#team">Team</a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#tokenSale">Galeria</a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#roadmap">Planificación</a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#team">Equipo</a></li>
 						<li class="nav-item"><a class="nav-link menu-link" href="#partners">Partners</a></li>
-						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">MORE</a>
-							<div class="dropdown-menu">
-								<a class="dropdown-item menu-link" href="#media-partner">Media Partners</a>
-								<a class="dropdown-item menu-link" href="#blogs">Blogs</a>
-								<a class="dropdown-item menu-link" href="#faq">Faqs</a>
-							</div>
-						</li>
 						<li class="nav-item"><a class="nav-link menu-link" href="#contact">Contacto</a></li>
 					</ul>
 		<!--			<ul class="navbar-nav navbar-btns">
