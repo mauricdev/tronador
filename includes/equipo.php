@@ -5,10 +5,10 @@
 			<div class="row text-center">
 				<div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
 					<div class="section-head">
-						<h2 class="section-title">Powered by a Team
+						<h2 class="section-title">AGENTS CCP
 							<span>Team</span>
 						</h2>
-						<p>The ICO Crypto Team combines a passion for esports, industry experise &amp; proven record in finance, development, marketing &amp;  licensing.</p>
+						<p>El tronador cuenta con su equipo multidiciplinario, Agents CCP se dedica a apoyarlo y acompañarlo en cada paso y competencias en el transcurso de su tiempo.</p>
 					</div>
 				</div>
 			</div>
@@ -22,7 +22,7 @@
 							<a href="#team-profile-1" class="expand-trigger content-popup"></a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">Waylon Dalton</h5>
+							<h5 class="team-name">Victor Henriquez</h5>
 							<span class="team-title">CEO &amp; Lead Blockchain </span>
 							<ul class="team-social">
 								<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
@@ -99,7 +99,7 @@
 							<a href="#team-profile-2" class="expand-trigger content-popup"></a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">Stefan Harary</h5>
+							<h5 class="team-name">Alicia Fuentealba</h5>
 							<span class="team-title">CTO &amp; Senior Developer</span>
 							<ul class="team-social">
 								<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
@@ -121,7 +121,7 @@
 
 									<div class="col-md-6">
 										<div class="team-profile-info">
-											<h3 class="name">Stefan Harary</h3>
+											<h3 class="name">Gregori </h3>
 											<p class="sub-title">CTO &amp; Senior Developer</p>
 											<ul class="tpi-social">
 												<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
@@ -176,7 +176,7 @@
 							<a href="#team-profile-3" class="expand-trigger content-popup"></a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">Moises Teare</h5>
+							<h5 class="team-name">Ignacio Jara</h5>
 							<span class="team-title">Blochain App Developer</span>
 							<ul class="team-social">
 								<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
