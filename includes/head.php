@@ -66,8 +66,8 @@
 								<p class="lead color-secondary">Agentes ccp <br> Somos los agentes del cambio</p>
 
 								<ul class="social">
-									<li><a href="#" target="#"><em class="fab fa-facebook-f"></em></a></li>
-									<li><a href="#" target="#"><em class="fab fa-twitter"></em></a></li>
+									<li><a href="https://www.facebook.com/cittccp" target="https://www.facebook.com/cittccp"><em class="fab fa-facebook-f"></em></a></li>
+									<li><a href="https://twitter.com/cittccp?lang=es" target="https://twitter.com/cittccp?lang=es"><em class="fab fa-twitter"></em></a></li>
 									<li><a href="https://www.youtube.com/channel/UCKz_GsYlAdO4D802wFg0hqg?view_as=subscriber" target="https://www.youtube.com/channel/UCKz_GsYlAdO4D802wFg0hqg?view_as=subscriber"><em class="fab fa-youtube"></em></a></li>
 									<li><a href="https://www.instagram.com/eltronadorccp/" target="https://www.instagram.com/eltronadorccp/" ><em class="fab fa-instagram"></em></a></li>
 								</ul>

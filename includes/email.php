@@ -22,23 +22,23 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2">
-					<form id="contact-form" class="form-message text-center" action="form/contact.php" method="post">
+					<form class="form-message text-center" method="post" action="includes/mail.php">
 						<div class="form-results"></div>
 						<div class="input-field">
-							<input name="contact-name" type="text" class="input-line required">
+							<input name="name" type="text" class="input-line required">
 							<label class="input-title">Nombre</label>
 						</div>
 						<div class="input-field">
-							<input name="contact-email" type="email" class="input-line required email">
+							<input name="email" type="email" class="input-line required email">
 							<label class="input-title">Email</label>
 						</div>
 						<div class="input-field">
-							<textarea name="contact-message" class="txtarea input-line required"></textarea>
+							<textarea name="message" class="txtarea input-line required"></textarea>
 							<label class="input-title">Mensaje</label>
 						</div>
 						<input type="text" class="d-none" name="form-anti-honeypot" value="">
 						<div class="input-field">
-							<button type="submit" class="btn">Enviar</button>
+							<button type="submit" value="submit" class="btn">Enviar</button>
 						</div>
 					</form>
 				</div>
