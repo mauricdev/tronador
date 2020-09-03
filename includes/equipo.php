@@ -44,15 +44,15 @@
 
 									<div class="col-md-6">
 										<div class="team-profile-info">
-											<h3 class="name">Waylon Dalton</h3>
-											<p class="sub-title">CEO & Lead Blockchain </p>
+											<h3 class="name">Victor Henriquez</h3>
+											<p class="sub-title">Mecánico </p>
 											<ul class="tpi-social">
 												<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 												<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
 												<li><a href=""><em class="fab fa-twitter"></em></a></li>
 											</ul>
-											<p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-											<p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
+											<p>Habilidades: Gestión de personas, manejo de base de datos, ser correcto en todo sentido. </p>
+											
 											<div class="skill-bars">
 												<div class="single-skill-bar">
 													<div class="row no-mg">
@@ -121,15 +121,15 @@
 
 									<div class="col-md-6">
 										<div class="team-profile-info">
-											<h3 class="name">Stefan Harary</h3>
-											<p class="sub-title">CTO & Senior Developer</p>
+											<h3 class="name">Alicia FuenteAlba</h3>
+											<p class="sub-title">Soporte</p>
 											<ul class="tpi-social">
 												<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 												<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
 												<li><a href=""><em class="fab fa-twitter"></em></a></li>
 											</ul>
-											<p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-											<p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
+											<p>Habilidades: Reiniciar un modem, CAT6, Uso de certificadora, uso de fusionadora. </p>
+											
 											<div class="skill-bars">
 												<div class="single-skill-bar">
 													<div class="row no-mg">
@@ -198,7 +198,7 @@
 
 									<div class="col-md-6">
 										<div class="team-profile-info">
-											<h3 class="name">Moises Teare</h3>
+											<h3 class="name">Ignacio Jara</h3>
 											<p class="sub-title">Blochain App Developer</p>
 											<ul class="tpi-social">
 												<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
@@ -275,14 +275,14 @@
 
 									<div class="col-md-6">
 										<div class="team-profile-info">
-											<h3 class="name">Gabriel Bernal</h3>
-											<p class="sub-title">Community Management</p>
+											<h3 class="name">Sergio Gatica</h3>
+											<p class="sub-title">Arsenalero</p>
 											<ul class="tpi-social">
 												<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 												<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
 												<li><a href=""><em class="fab fa-twitter"></em></a></li>
 											</ul>
-											<p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
+											<p>Habilidades: Lectura de manuales </p>
 											<p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
 											<div class="skill-bars">
 												<div class="single-skill-bar">
@@ -363,7 +363,7 @@
 
 											<div class="col-md-6">
 												<div class="team-profile-info">
-													<h3 class="name">Dylan Finch</h3>
+													<h3 class="name">Sebastian Avello</h3>
 													<p class="sub-title">Board Advisor</p>
 													<ul class="tpi-social">
 														<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
@@ -440,15 +440,15 @@
 
 											<div class="col-md-6">
 												<div class="team-profile-info">
-													<h3 class="name">Julian Paten</h3>
+													<h3 class="name">Gregori Sobrevía</h3>
 													<p class="sub-title">Board Advisor</p>
 													<ul class="tpi-social">
 														<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 														<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
 														<li><a href=""><em class="fab fa-twitter"></em></a></li>
 													</ul>
-													<p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-													<p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
+													<p>Habilidades:  </p>
+													
 													<div class="skill-bars">
 														<div class="single-skill-bar">
 															<div class="row no-mg">
@@ -495,8 +495,8 @@
 									<a href="#team-profile-7" class="expand-trigger content-popup"></a>
 								</div>
 								<div class="team-info" >
-									<h5 class="team-name">Jaxon <br>Kilburn</h5>
-									<span class="team-title">Board Advisor</span>
+									<h5 class="team-name">Sergio <br>Gatica</h5>
+									<span class="team-title">COACH</span>
 									<ul class="team-social">
 										<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 										<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
@@ -519,15 +519,14 @@
 
 											<div class="col-md-6">
 												<div class="team-profile-info">
-													<h3 class="name">Jaxon Kilburn</h3>
-													<p class="sub-title">Board Advisor</p>
+													<h3 class="name">Sergio Gatica</h3>
+													<p class="sub-title">COACH</p>
 													<ul class="tpi-social">
 														<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 														<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
 														<li><a href=""><em class="fab fa-twitter"></em></a></li>
 													</ul>
-													<p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-													<p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
+													<p>Habilidades: Desarrollo de software, autodidacta. </p>
 													<div class="skill-bars">
 														<div class="single-skill-bar">
 															<div class="row no-mg">
