@@ -1,5 +1,5 @@
 	<!-- Start Section -->
-	<div class="section section-pad section-bg section-light" id="contact">
+	<div class="section section-pad section-bg section-fix" id="contact">
 		<div class="container">
 			<div class="row text-center">
 				<div class="col">

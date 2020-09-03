@@ -8,7 +8,7 @@
 						<h2 class="section-title">Equipo CCP
 							<span>Equipo</span>
 						</h2>
-						<p>The ICO Crypto Team combines a passion for esports, industry experise &amp; proven record in finance, development, marketing &amp;  licensing.</p>
+						<!-- <p>The ICO Crypto Team combines a passion for esports, industry experise &amp; proven record in finance, development, marketing &amp;  licensing.</p> -->
 					</div>
 				</div>
 			</div>
@@ -488,20 +488,27 @@
 							</div>
 						</div><!-- .col  -->
 
-						<div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0 d-inline-flex justify-content-center">
+						<div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0 d-inline-flex justify-content-center" >
 							<div class="team-member">
 								<div class="team-photo">
 									<img src="images/team-g-sq.jpg" alt="team">
 									<a href="#team-profile-7" class="expand-trigger content-popup"></a>
 								</div>
+<<<<<<< HEAD
 								<div class="team-info">
 									<h5 class="team-name">Gregori <br>Sobrevía</h5>
+=======
+								<div class="team-info" >
+									<h5 class="team-name">Jaxon <br>Kilburn</h5>
+>>>>>>> 1f52d9e691ca4e61b5d2af4b579ca00866c992ea
 									<span class="team-title">Board Advisor</span>
 									<ul class="team-social">
 										<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 										<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
-										<li><a href=""><em class="fab fa-twitter"></em></a></li>
-									</ul>
+                                        <li><a href=""><em class="fab fa-twitter"></em></a></li>
+                                        
+                                    </ul>                                    
+       
 								</div>
 
 								<!-- Start .team-profile  -->
@@ -563,10 +570,15 @@
 									</div><!-- .container  -->
 								</div><!-- .team-profile  -->
 
-							</div>
-						</div><!-- .col  -->
-					</div><!-- .row  -->
-				</div><!-- .col  -->
-			</div><!-- .row  -->
-		</div>
+                            </div>
+                            
+                        </div><!-- .col  -->
+                        
+                    </div><!-- .row  -->
+                   
+                </div><!-- .col  -->
+               
+            </div><!-- .row  -->
+            
+        </div>
 	</div>
