@@ -62,7 +62,7 @@
 					<div class="row align-items-center mobile-center">
 						<div class="col-lg-6 col-md-12 order-lg-first">
 							<div class="header-txt">
-								<h1>El tronador</h1>
+								<h1>El Tronador</h1>
 								<p class="lead color-secondary">Agentes ccp <br> Somos los agentes del cambio</p>
 
 								<ul class="social">

@@ -53,7 +53,6 @@
                     <img src="images/stage1.jpg" alt="RoboOne">
 					</div>
 				</div><!-- .col  -->
-
 				<div class="col-md-5 offset-md-1">
 					<div class="text-block">
 						<p style="text-align: justify;"> Nació en Japón en el año 2002, con las primeras demostraciones de robots bípedos autónomos. En Japón, cada año se realiza una conferencia técnica y dos torneos, que cuentan con categorías como:</p>
@@ -66,6 +65,5 @@
 					</div>
 				</div><!-- .col  -->
 			</div><!-- .row  -->
-
 		</div><!-- .container  -->
 	</div>

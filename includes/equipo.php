@@ -23,7 +23,7 @@
 						</div>
 						<div class="team-info">
 							<h5 class="team-name">Victor<br>Henriquez</h5>
-							<span class="team-title">CEO & Lead Blockchain </span>
+							<span class="team-title">Mecanico</span>
 							<ul class="team-social">
 								<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 								<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
@@ -44,19 +44,24 @@
 
 									<div class="col-md-6">
 										<div class="team-profile-info">
-											<h3 class="name">Waylon Dalton</h3>
-											<p class="sub-title">CEO & Lead Blockchain </p>
+											<h3 class="name">Victor  Henriquez</h3>
+											<p class="sub-title">Mecánico</p>
 											<ul class="tpi-social">
 												<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
 												<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
 												<li><a href=""><em class="fab fa-twitter"></em></a></li>
 											</ul>
-											<p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-											<p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
+											<p>Proyectos :  
+                                            <ul>
+							                    <li>Cultibot</li>
+							                    <li>Calidad del aire con drones</li>
+						                    	<li>Robo-One Kendo, combate de robot espadas</li>
+                                            </ul>
+                                            </p>
 											<div class="skill-bars">
 												<div class="single-skill-bar">
 													<div class="row no-mg">
-														<div class="col-8 no-pd"><span class="skill-title">HTML5</span></div>
+														<div class="col-8 no-pd"><span class="skill-title">Gestión de personas</span></div>
 														<div class="col-4 text-right no-pd"><span class="skill-percent">85%</span></div>
 													</div>
 													<div class="skill-bar">
@@ -65,7 +70,7 @@
 												</div>
 												<div class="single-skill-bar">
 													<div class="row no-mg">
-														<div class="col-8 no-pd"><span class="skill-title">CSS3</span></div>
+														<div class="col-8 no-pd"><span class="skill-title">Manejo de base de datos</span></div>
 														<div class="col-4 text-right no-pd"><span class="skill-percent">90%</span></div>
 													</div>
 													<div class="skill-bar">
@@ -74,11 +79,11 @@
 												</div>
 												<div class="single-skill-bar">
 													<div class="row no-mg">
-														<div class="col-8 no-pd"><span class="skill-title">Java</span></div>
-														<div class="col-4 text-right no-pd"><span class="skill-percent">75%</span></div>
+														<div class="col-8 no-pd"><span class="skill-title">Ser correcto en todo sentido</span></div>
+														<div class="col-4 text-right no-pd"><span class="skill-percent">100%</span></div>
 													</div>
 													<div class="skill-bar">
-														<div class="skill-bar-percent gradiant-background" style="width:75%"></div>
+														<div class="skill-bar-percent gradiant-background" style="width:100%"></div>
 													</div>
 												</div>
 											</div>
@@ -323,13 +328,6 @@
 					</div>
 				</div><!-- .col  -->
 			</div><!-- .row  -->
-			<div class="row">
-				<div class="col-md-12">
-					<div class="gaps size-2x"></div>
-					<h3 class="sub-heading ucap">Advisors</h3>
-					<div class="gaps size-2x"></div>
-				</div>
-			</div>
 			<div class="row justify-content-center">
 				<div class="col-lg-9 col-md-12">
 					<div class="row">

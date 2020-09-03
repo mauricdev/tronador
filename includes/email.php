@@ -14,8 +14,8 @@
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2">
 					<ul class="contact-info">
-						<li><em class="fa fa-phone"></em><span>+44 0123 4567</span></li>
-						<li><em class="fa fa-envelope"></em><span>info@yourcompany.com</span></li>
+						<li><em class="fa fa-phone"></em><span>+569 </span></li>
+						<li><em class="fa fa-envelope"></em><span>cittccp@gmail.com</span></li>
 						<li><em class="fa fa-paper-plane"></em><span>Join us on Telegram</span></li>
 					</ul>
 				</div>
