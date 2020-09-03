@@ -5,14 +5,14 @@
 			<div class="row align-items-center">
 				<div class="col-md-5 offset-md-1">
 					<div class="res-m-btm">
-						<img src="images/graph-dark-a.png" alt="graph">
+						<img src="images/stage.jfif" alt="graph">
 					</div>
 				</div><!-- .col  -->
 				<div class="col-md-6 order-md-first order-last">
 					<div class="text-block">
 						<h2>We’ve built a platform <br> to buy and sell shares.</h2>
 						<p class="lead">We’re reinventing the global equity blockchian – that is secure, smart and easy-to-use platform, and completely disrupting the way businesses raise capital and the way investors buy and sell shares.</p>
-						<a href="https://www.youtube.com/watch?v=SSo_EIwHSd4" class="play-btn video-play">
+						<a href="https://www.instagram.com/p/B6ZOrAlhEvc/" class="play-btn video-play">
 							<em class="play"><span></span></em>
 							<span>Watch Video</span>
 							<span>What and How it work</span>
