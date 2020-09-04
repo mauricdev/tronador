@@ -4,8 +4,8 @@
         <div class="row text-center">
             <div class="col">
                 <div class="section-head">
-                    <h2 class="section-title">Partners
-                        <span>Partners </span>
+                    <h2 class="section-title">Sponsors
+                        <span>Sponsors</span>
                     </h2>
                 </div>
             </div>
