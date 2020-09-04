@@ -441,12 +441,12 @@
 														<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
 														<li><a href=""><em class="fab fa-twitter"></em></a></li>
 													</ul>
-													<p>Habilidades:  </p>
+													<p>Habilidades: Amante de los lenguajes   </p>
 													
 													<div class="skill-bars">
 														<div class="single-skill-bar">
 															<div class="row no-mg">
-																<div class="col-8 no-pd"><span class="skill-title">HTML5</span></div>
+																<div class="col-8 no-pd"><span class="skill-title">python</span></div>
 																<div class="col-4 text-right no-pd"><span class="skill-percent">85%</span></div>
 															</div>
 															<div class="skill-bar">
@@ -455,7 +455,7 @@
 														</div>
 														<div class="single-skill-bar">
 															<div class="row no-mg">
-																<div class="col-8 no-pd"><span class="skill-title">CSS3</span></div>
+																<div class="col-8 no-pd"><span class="skill-title">Java</span></div>
 																<div class="col-4 text-right no-pd"><span class="skill-percent">90%</span></div>
 															</div>
 															<div class="skill-bar">
@@ -464,7 +464,7 @@
 														</div>
 														<div class="single-skill-bar">
 															<div class="row no-mg">
-																<div class="col-8 no-pd"><span class="skill-title">Java</span></div>
+																<div class="col-8 no-pd"><span class="skill-title">C#</span></div>
 																<div class="col-4 text-right no-pd"><span class="skill-percent">75%</span></div>
 															</div>
 															<div class="skill-bar">
