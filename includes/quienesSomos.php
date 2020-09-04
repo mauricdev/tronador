@@ -42,7 +42,7 @@
 						<h2 class="section-title">Robo one - latinoamerica 
 							<span>RoboOne</span>
 						</h2>
-						<p > ROBO-ONE es una competencia de robots bípedos más importante del mundo en donde cada robot debe intentar derribar a su oponente o sacarlo del ring.</p>
+						<p class="lead"> ROBO-ONE es una competencia de robots bípedos más importante del mundo en donde cada robot debe intentar derribar a su oponente o sacarlo del ring.</p>
 					</div>
 				</div>
 			</div>
@@ -55,13 +55,13 @@
 				</div><!-- .col  -->
 				<div class="col-md-5 offset-md-1">
 					<div class="text-block">
-						<p style="text-align: justify;"> Nació en Japón en el año 2002, con las primeras demostraciones de robots bípedos autónomos. En Japón, cada año se realiza una conferencia técnica y dos torneos, que cuentan con categorías como:</p>
-						<ul>
+						<p class="lead" style="text-align: justify;"> Nació en Japón en el año 2002, con las primeras demostraciones de robots bípedos autónomos. En Japón, cada año se realiza una conferencia técnica y dos torneos, que cuentan con categorías como:</p>
+						<ul class="lead" >
 							<li>Robo-One, robots bípedos menos de tres kilogramos</li>
 							<li>Robo-One, robots bípedos menos de tres kilogramos</li>
 							<li>Robo-One Kendo, combate de robot espadas</li>
                         </ul>
-                        <p style="text-align: justify;">Los robot deben cumplir con requisitos técnicos que abarcan: dimensiones del robot, peso, tipo de tecnología, etc. las cuales son acreditadas por la competencia. Los materiales del robot puede incluir aluminio, madera y plástico</p>
+                        <p class="lead" style="text-align: justify;">Los robot deben cumplir con requisitos técnicos que abarcan: dimensiones del robot, peso, tipo de tecnología, etc. las cuales son acreditadas por la competencia. Los materiales del robot puede incluir aluminio, madera y plástico</p>
 					</div>
 				</div><!-- .col  -->
 			</div><!-- .row  -->
