@@ -14,17 +14,17 @@
             <div class="row text-center">
                 <div class="col-sm">
                     <div class="single-partner">
-                        <img src="images/partner-md-a1.png" alt="partner">
+                        <a href="https://www.duoc.cl/citt/" target="_blank"><img src="images/partner-md-a1.png" alt="partner"></a>
                     </div>
                 </div>
                 <div class="col-sm">
                     <div class="single-partner">
-                        <img src="images/partner-md-b1.png" alt="partner">
+                        <a href="https://www.4dev.cl/" target="_blank"><img src="images/partner-md-b1.png" alt="partner"></a>
                     </div>
                 </div>
                 <div class="col-sm">
                     <div class="single-partner">
-                        <img src="images/partner-md-c1.png" alt="partner">
+                        <a href="https://www.duoc.cl/escuela/informatica-telecomunicaciones/" target="_blank"><img src="images/partner-md-c1.png" alt="partner"></a>
                     </div>
                 </div>
             </div>
@@ -33,12 +33,12 @@
                     <div class="row">
                         <div class="col-sm">
                             <div class="single-partner">
-                                <img src="images/partner-md-d1.png" alt="partner">
+                                <a href="https://www.duoc.cl/" target="_blank"><img src="images/partner-md-d1.png" alt="partner"></a>
                             </div>
                         </div>
                         <div class="col-sm">
                             <div class="single-partner">
-                                <img src="images/partner-md-e1.png" alt="partner">
+                                <a href="https://www.robo-one.la/" target="_blank"><img src="images/partner-md-e1.png" alt="partner"></a>
                             </div>
                         </div>
                     </div>

@@ -4,8 +4,8 @@
 		<div class="row text-center">
 			<div class="col-md-8 offset-md-2 col-lg-8 offset-lg-2">
 				<div class="section-head">
-					<h2 class="section-title">Galeria
-						<span>Galeria</span>
+					<h2 class="section-title">Galería
+						<span>Galería</span>
 					</h2>
 					<p>Mira las fotos que tenemos para ti </p>
 

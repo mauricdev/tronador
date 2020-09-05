@@ -5,7 +5,7 @@
 			<div class="row text-center">
 				<div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
 					<div class="section-head">
-						<h2 class="section-title">Equipo CCP
+						<h2 class="section-title"><a class="tronador_text">AGENTS OF CCP</a>
 							<span>Equipo</span>
 						</h2>
 						<!-- <p>The ICO Crypto Team combines a passion for esports, industry experise &amp; proven record in finance, development, marketing &amp;  licensing.</p> -->
@@ -38,7 +38,7 @@
 								<div class="row no-mg">
 									<div class="col-md-6">
 										<div class="team-profile-photo">
-											<img src="images/team-a-lg.png" alt="team" />
+											<img src="images/team-a-lg1.png" alt="team" />
 										</div>
 									</div><!-- .col  -->
 
@@ -115,7 +115,7 @@
 								<div class="row no-mg">
 									<div class="col-md-6">
 										<div class="team-profile-photo">
-											<img src="images/team-b-lg.png" alt="team" />
+											<img src="images/team-b-lg1.png" alt="team" />
 										</div>
 									</div><!-- .col  -->
 
@@ -253,7 +253,7 @@
 							<a href="#team-profile-4" class="expand-trigger content-popup"></a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">Sergio <br>Gatica</h5>
+							<h5 class="team-name">Sergio <br>Gatica JR</h5>
 							<span class="team-title">Arsenalero</span>
 							<ul class="team-social">
 								<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
@@ -269,13 +269,13 @@
 								<div class="row no-mg">
 									<div class="col-md-6">
 										<div class="team-profile-photo">
-											<img src="images/team-d-lg.png" alt="team" />
+											<img src="images/team-d-lg1.png" alt="team" />
 										</div>
 									</div><!-- .col  -->
 
 									<div class="col-md-6">
 										<div class="team-profile-info">
-											<h3 class="name">Sergio Gatica</h3>
+											<h3 class="name">Sergio Gatica JR</h3>
 											<p class="sub-title">Arsenalero</p>
 											<ul class="tpi-social">
 												<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
@@ -507,7 +507,7 @@
 										<div class="row no-mg">
 											<div class="col-md-6">
 												<div class="team-profile-photo">
-													<img src="images/team-g-lg.png" alt="team" />
+													<img src="images/team-g-lg1.png" alt="team" />
 												</div>
 											</div><!-- .col  -->
 
@@ -587,7 +587,7 @@
 										<div class="row no-mg">
 											<div class="col-md-6">
 												<div class="team-profile-photo">
-													<img src="images/team-h-lg.png" alt="team" />
+													<img src="images/team-h-lg1.png" alt="team" />
 												</div>
 											</div><!-- .col  -->
 
@@ -656,7 +656,7 @@
             <div class="row">
 				<div class="col-md-12">
 					<div class="gaps size-2x"></div>
-					<h3 class="sub-heading ucap">Agentes Renegados</h3>
+					<h3 class="sub-heading ucap tronador_text">Agentes Renegados</h3>
 					<div class="gaps size-2x"></div>
 				</div>
 			</div>
@@ -674,9 +674,9 @@
 									<h5 class="team-name">Jorge <br>Troncoso</h5>
 									<span class="team-title">Ex Piloto</span>
 									<ul class="team-social">
-										<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
-										<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
-										<li><a href=""><em class="fab fa-twitter"></em></a></li>
+										<li><a href="https://www.facebook.com/jorge.troncoso.16568" target="_blank"><em class="fab fa-facebook-f"></em></a></li>
+										<li><a href="https://www.linkedin.com/in/jorge-troncoso-irribarra-bb35bb163" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
+										<li><a href="https://github.com/Donkokes" target="_blank"><em class="fab fa-github"></em></a></li>
 									</ul>
 								</div>
 
@@ -687,7 +687,7 @@
 										<div class="row no-mg">
 											<div class="col-md-6">
 												<div class="team-profile-photo">
-													<img src="images/team-i-lg.png" alt="team" />
+													<img src="images/team-i-lg1.png" alt="team" />
 												</div>
 											</div><!-- .col  -->
 
@@ -696,9 +696,9 @@
 													<h3 class="name">Jorge Troncoso</h3>
 													<p class="sub-title">Ex Piloto 2019</p>
 													<ul class="tpi-social">
-														<li><a href=""><em class="fab fa-facebook-f"></em></a></li>
-														<li><a href=""><em class="fab fa-linkedin-in"></em></a></li>
-														<li><a href=""><em class="fab fa-twitter"></em></a></li>
+														<li><a href="https://www.facebook.com/jorge.troncoso.16568" target="_blank"><em class="fab fa-facebook-f"></em></a></li>
+														<li><a href="https://www.linkedin.com/in/jorge-troncoso-irribarra-bb35bb163" target="_blank"><em class="fab fa-linkedin-in"></em></a></li>
+														<li><a href="https://github.com/Donkokes" target="_blank"><em class="fab fa-github"></em></a></li>
 													</ul>
 													<p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
 													<p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
@@ -764,7 +764,7 @@
 										<div class="row no-mg">
 											<div class="col-md-6">
 												<div class="team-profile-photo">
-													<img src="images/team-j-lg.png" alt="team" />
+													<img src="images/team-j-lg1.png" alt="team" />
 												</div>
 											</div><!-- .col  -->
 
@@ -843,7 +843,7 @@
 										<div class="row no-mg">
 											<div class="col-md-6">
 												<div class="team-profile-photo">
-													<img src="images/team-k-lg.png" alt="team" />
+													<img src="images/team-k-lg1.png" alt="team" />
 												</div>
 											</div><!-- .col  -->
 
