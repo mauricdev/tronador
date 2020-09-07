@@ -10,9 +10,15 @@
 				</div><!-- .col  -->
 				<div class="col-md-6 order-md-first order-last">
 					<div class="text-block">
+<<<<<<< HEAD
 						<h2>Agentes ccp</h2>
 						<p class="lead"  style="text-align: justify;">La iniciativa de "El Tronador" no es mas que participar de la competencia robo-one chile y representar a nuestro querido Concepción para demostrar que nosotros tambien podemos, además de aprovechar la tecnología bípeda y sus futuras aplicaciones.<br> El equipo que trabaja con este robot tendrá la oportunidad de ser uno de los ganadores de esta competencia y tomar un avion rumbo a Japón donde podrán participar de la competencia a nivel mundial </p>
 						<a href="https://www.youtube.com/embed/RCYaIxy-cy4" class="play-btn video-play">
+=======
+						<h2 Class="tronador_text">AGENTS OF CCP</h2>
+						<p class="lead"  style="text-align: justify;">La iniciativa de <span class="tronador_text" style="color:#000">"El Tronador"</span> no es mas que participar de la competencia robo-one chile y representar a nuestro querido Concepción para demostrar que nosotros tambien podemos, además de aprovechar la tecnología bípeda y sus futuras aplicaciones.<br> El equipo que trabaja con este robot tendrá la oportunidad de ser uno de los ganadores de esta competencia y tomar un avion rumbo a Japón donde podrán participar de la competencia a nivel mundial </p>
+						<a href="https://www.youtube.com/watch?v=RCYaIxy-cy4" class="play-btn video-play">
+>>>>>>> 7ff5f5b9ce0389d642b3221149154d8344b85afd
 							<em class="play"><span></span></em>
 							<span>Mira el video!</span>
 							<span>Somos los agentes del cambio</span>

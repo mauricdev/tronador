@@ -16,6 +16,10 @@
 	<link rel="stylesheet" href="assets/css/style.css?ver=142">
 	<link rel="stylesheet" href="assets/css/theme.css?ver=142">
 
+
+	<!-- fuentes el tronador -->
+	<link rel="stylesheet" href="fuentes/stylesheet.css">
+
 </head>
 
 <body class="theme-dark io-dark io-dark-light" data-spy="scroll" data-target="#mainnav" data-offset="80">
@@ -62,8 +66,8 @@
 					<div class="row align-items-center mobile-center">
 						<div class="col-lg-6 col-md-12 order-lg-first">
 							<div class="header-txt">
-								<h1>El Tronador</h1>
-								<p class="lead color-secondary">Agentes ccp <br> Somos los agentes del cambio</p>
+								<h1 class="tronador_text">El Tronador</h1>
+								<p class="lead color-secondary"><a class="tronador_text">AGENTS OF CCP</a> <br> Somos los agentes del cambio</p>
 
 								<ul class="social">
 									<li><a href="https://www.facebook.com/cittccp" target="https://www.facebook.com/cittccp"><em class="fab fa-facebook-f"></em></a></li>
@@ -75,7 +79,7 @@
 						</div><!-- .col  -->
 						<div class="col-lg-6 col-md-12 order-first">
 							<div class="header-image">
-								<img src="images/header-image-dark.png" alt="header">
+								<img src="images/header-image-dark3.png" alt="header">
 								<img class="header-image-icon left-icon" src="images/header-icon-a.png" alt="header-icon">
 								<img class="header-image-icon right-icon" src="images/header-icon-b.png" alt="header-icon">
 							</div>
